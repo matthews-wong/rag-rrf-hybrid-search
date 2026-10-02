@@ -1,0 +1,10 @@
+{"query": "how do I rotate credentials", "relevant": ["rotate-keys"]}
+{"query": "restore the database after an incident", "relevant": ["backup-restore"]}
+{"query": "page not acknowledged who gets it next", "relevant": ["oncall-escalation"]}
+{"query": "undo a bad deploy", "relevant": ["deploy-rollback"]}
+{"query": "certificate renewal failed", "relevant": ["tls-renewal"]}
+{"query": "what happens on HTTP 429", "relevant": ["rate-limits"]}
+{"query": "trace a request across services", "relevant": ["log-format"]}
+{"query": "volume running out of space", "relevant": ["disk-alerts"]}
+{"query": "where do secrets live", "relevant": ["secrets-policy"]}
+{"query": "clear the CDN cache", "relevant": ["cache-purge"]}
